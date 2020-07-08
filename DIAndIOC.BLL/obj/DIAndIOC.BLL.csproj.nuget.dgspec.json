@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\DIAndIOC.BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\DIAndIOC.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\DIAndIOC.BLL.csproj",
+        "projectName": "DIAndIOC.BLL",
+        "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\DIAndIOC.BLL.csproj",
+        "packagesPath": "C:\\Users\\cshang\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cshang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\DIAndIOC.Framework.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\DIAndIOC.Framework.csproj"
+              },
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj"
+              },
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\DIAndIOC.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\DIAndIOC.Framework.csproj",
+        "projectName": "DIAndIOC.Framework",
+        "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\DIAndIOC.Framework.csproj",
+        "packagesPath": "C:\\Users\\cshang\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cshang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj"
+              },
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj",
+        "projectName": "DIAndIOC.IBLL",
+        "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\DIAndIOC.IBLL.csproj",
+        "packagesPath": "C:\\Users\\cshang\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cshang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj",
+        "projectName": "DIAndIOC.IDAL",
+        "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\DIAndIOC.IDAL.csproj",
+        "packagesPath": "C:\\Users\\cshang\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.IDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cshang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj": {
+                "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj",
+        "projectName": "DIAndIOC.Model",
+        "projectPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\DIAndIOC.Model.csproj",
+        "packagesPath": "C:\\Users\\cshang\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cshang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

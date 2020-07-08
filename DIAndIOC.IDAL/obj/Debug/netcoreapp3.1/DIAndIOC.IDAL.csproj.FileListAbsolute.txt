@@ -1,0 +1,12 @@
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\bin\Debug\netcoreapp3.1\DIAndIOC.IDAL.deps.json
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\bin\Debug\netcoreapp3.1\DIAndIOC.IDAL.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\bin\Debug\netcoreapp3.1\DIAndIOC.IDAL.pdb
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\bin\Debug\netcoreapp3.1\DIAndIOC.Model.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\bin\Debug\netcoreapp3.1\DIAndIOC.Model.pdb
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.csprojAssemblyReference.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.csproj.CoreCompileInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.AssemblyInfoInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.AssemblyInfo.cs
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.csproj.CopyComplete
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.IDAL\obj\Debug\netcoreapp3.1\DIAndIOC.IDAL.pdb

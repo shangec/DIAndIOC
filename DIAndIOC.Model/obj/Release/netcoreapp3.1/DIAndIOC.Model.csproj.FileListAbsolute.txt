@@ -1,0 +1,9 @@
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\bin\Release\netcoreapp3.1\DIAndIOC.Model.deps.json
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\bin\Release\netcoreapp3.1\DIAndIOC.Model.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\bin\Release\netcoreapp3.1\DIAndIOC.Model.pdb
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.csprojAssemblyReference.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.csproj.CoreCompileInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.AssemblyInfoInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.AssemblyInfo.cs
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Model\obj\Release\netcoreapp3.1\DIAndIOC.Model.pdb

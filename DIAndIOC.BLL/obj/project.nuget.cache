@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFtWKMoKYAMRBVr5GpMOXc3QyDgLRxTQ+yyhnbLOd7iRQ48ThvEtAW6Bki+H+DKV6clOPmk6MwIKUv8HMFvXkg==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Self Training\\2020-07\\DIAndIOC\\DIAndIOC.BLL\\DIAndIOC.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.6.20305.6\\microsoft.extensions.configuration.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.6.20305.6\\microsoft.extensions.configuration.abstractions.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0-preview.6.20305.6\\microsoft.extensions.configuration.fileextensions.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0-preview.6.20305.6\\microsoft.extensions.configuration.json.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0-preview.6.20305.6\\microsoft.extensions.fileproviders.abstractions.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0-preview.6.20305.6\\microsoft.extensions.fileproviders.physical.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0-preview.6.20305.6\\microsoft.extensions.filesystemglobbing.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.6.20305.6\\microsoft.extensions.primitives.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.6.20305.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.6.20305.6\\system.text.encodings.web.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\cshang\\.nuget\\packages\\system.text.json\\5.0.0-preview.6.20305.6\\system.text.json.5.0.0-preview.6.20305.6.nupkg.sha512"
+  ],
+  "logs": []
+}

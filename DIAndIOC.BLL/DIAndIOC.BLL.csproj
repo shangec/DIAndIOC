@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIAndIOC.Framework\DIAndIOC.Framework.csproj" />
+    <ProjectReference Include="..\DIAndIOC.IBLL\DIAndIOC.IBLL.csproj" />
+    <ProjectReference Include="..\DIAndIOC.IDAL\DIAndIOC.IDAL.csproj" />
+  </ItemGroup>
+
+</Project>

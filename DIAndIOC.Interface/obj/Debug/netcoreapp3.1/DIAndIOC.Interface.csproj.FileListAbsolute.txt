@@ -1,0 +1,9 @@
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\bin\Debug\netcoreapp3.1\DIAndIOC.Interface.deps.json
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\bin\Debug\netcoreapp3.1\DIAndIOC.Interface.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\bin\Debug\netcoreapp3.1\DIAndIOC.Interface.pdb
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.csproj.CoreCompileInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.AssemblyInfoInputs.cache
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.AssemblyInfo.cs
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.dll
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.pdb
+D:\Study\Self Training\2020-07\DIAndIOC\DIAndIOC.Interface\obj\Debug\netcoreapp3.1\DIAndIOC.Interface.csprojAssemblyReference.cache

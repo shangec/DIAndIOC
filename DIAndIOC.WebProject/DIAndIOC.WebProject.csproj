@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIAndIOC.BLL\DIAndIOC.BLL.csproj" />
+    <ProjectReference Include="..\DIAndIOC.DAL\DIAndIOC.DAL.csproj" />
+    <ProjectReference Include="..\DIAndIOC.Framework\DIAndIOC.Framework.csproj" />
+    <ProjectReference Include="..\DIAndIOC.IBLL\DIAndIOC.IBLL.csproj" />
+    <ProjectReference Include="..\DIAndIOC.IDAL\DIAndIOC.IDAL.csproj" />
+    <ProjectReference Include="..\DIAndIOC.Interface\DIAndIOC.Interface.csproj" />
+    <ProjectReference Include="..\DIAndIOC.Service\DIAndIOC.Service.csproj" />
+  </ItemGroup>
+
+</Project>
